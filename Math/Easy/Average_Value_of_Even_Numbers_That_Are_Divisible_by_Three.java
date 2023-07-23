@@ -8,7 +8,6 @@ class Solution {
              count++;
             }
         }
-        //int c=sum/count;
         return count == 0 ? 0 : sum/count;
     }
 }
